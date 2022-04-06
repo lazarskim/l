@@ -24,7 +24,8 @@
 <input type="submit" value="zamow">
 <input type="reset" value="wyszysc">
 <?php
-//skrypt PHP
+//skrypt PHP - informacje
+
 
 
 
